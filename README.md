@@ -191,7 +191,7 @@ MIT License
   author = {Debajyati},
   title = {sklearn-selector-pipeline: Meta-estimators for combining feature selectors with classifiers and regressors},
   url = {https://github.com/Debajyati/sklearn-selector-pipeline},
-  version = {0.1.0},
+  version = {0.1.2},
   year = {2025}
 }
 ```
